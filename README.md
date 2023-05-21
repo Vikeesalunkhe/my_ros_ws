@@ -2,7 +2,7 @@
 My ROS Controller
 
 
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsinsight.net%2Ffactors-consider-building-small-scale-robotics-lab%2F&psig=AOvVaw3290bzV-hlYcH8CzkC_Y-n&ust=1684749214767000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDy5IWShv8CFQAAAAAdAAAAABAW)
+![Logo](https://www.analyticsinsight.net/wp-content/uploads/2020/08/Robotic-Lab.jpg)
 
 ## Content
 
