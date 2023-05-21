@@ -1,0 +1,3 @@
+<launch>
+      <node pkg="package1" type="task2.py" name="node2" output="screen" />
+</launch> 
